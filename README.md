@@ -1,5 +1,5 @@
 # Hello there devs 👋.
-<bold><h3>I'm Sumagna Das, A passionate developer from India. Currently I am a student at <a href="navanalanda.org.in">Nava Nalanda</a>. 🔭 I’m currently working on <a href='https://sourceforge.net/projects/brlcad/'>BRL-CAD</a>. You can check out my <a href="sumagnadas.github.io">portfolio site</a></bold>
+<bold><h3>I'm Sumagna Das, A passionate developer from India. Currently I am a student at <a href="navanalanda.org.in">Nava Nalanda</a>. 🔭 I’m currently working on <a href='https://sourceforge.net/projects/brlcad/'>BRL-CAD</a>. You can check out my <a href="sumagnadas.github.io">portfolio site</a>.</bold>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumagnadas" alt="sumagnadas" /></a> </p> 
 
